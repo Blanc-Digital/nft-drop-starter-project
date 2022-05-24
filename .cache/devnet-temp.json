@@ -1,0 +1,29 @@
+{
+  "program": {
+    "uuid": "CUiwaq",
+    "candyMachine": "CUiwaqG1jaFMmG37w5LKeBDhHDsNGYxsjcCta3PEMAx",
+    "collection": "8nEGiVpBTZuhRRsCsJMeMubZxMbgozpZEnooBB1exLH8"
+  },
+  "items": {
+    "0": {
+      "link": "https://arweave.net/N99AtziiA5gx4bh2fcyNwcmj3AD5HULMyHGsMvV5Z20",
+      "name": "Pixar Characters: Dori",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "1": {
+      "link": "https://arweave.net/Bhacy1wKk4PV6AZ2Gm7R_1PvrLY3PNd26mDP0OdhHxU",
+      "name": "Pixar Characters: Hat Kid",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "2": {
+      "link": "https://arweave.net/eWFY0d506spHtsEDr9QrSoFc0KliN9G7ny7Yxii8IoY",
+      "name": "Pixar Characters: Shark",
+      "onChain": true,
+      "verifyRun": true
+    }
+  },
+  "env": "devnet",
+  "cacheName": "temp"
+}

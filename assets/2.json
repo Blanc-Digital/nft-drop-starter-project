@@ -1,0 +1,19 @@
+{
+  "name": "Pixar Characters: Shark",
+  "symbol": "PC",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "BCi7qsBWLKNi48jREUGWEVTUhLPBCpo4wziVgEHWQ8Cb",
+        "share": 100
+      }
+    ]
+  }
+}

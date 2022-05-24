@@ -1,0 +1,19 @@
+{
+  "name": "Pixar Characters: Dori",
+  "symbol": "PC",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "BCi7qsBWLKNi48jREUGWEVTUhLPBCpo4wziVgEHWQ8Cb",
+        "share": 100
+      }
+    ]
+  }
+}
